@@ -1,0 +1,7 @@
+{
+    "name": "Jobcy",
+    "namespace": "Theme\\Jobcy\\",
+    "description": "Jobcy - Laravel Job Board Script",
+    "author": "Botble Technologies",
+    "required_plugins": []
+}

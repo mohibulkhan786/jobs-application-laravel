@@ -1,0 +1,10 @@
+@import "./node_modules/bootstrap/scss/functions";
+@import "./node_modules/bootstrap/scss/variables";
+@import "variables";
+@import "./node_modules/bootstrap/scss/bootstrap";
+
+@import "components/general";
+@import "components/dropdown";
+@import "components/button";
+@import "components/navs-tabs";
+@import "components/pagination";
